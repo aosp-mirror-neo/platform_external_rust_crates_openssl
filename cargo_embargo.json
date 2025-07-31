@@ -44,6 +44,7 @@
         "//system/software_defined_vehicle/platform/init_open_dice",
         "//tools/netsim",
         "//tools/security/remote_provisioning/hwtrust",
+        "//trusty/user/desktop/app/finger_guard",
         "//vendor:__subpackages__"
     ]
   },
